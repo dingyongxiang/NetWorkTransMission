@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/NetWorkTransLibrary/NetWorkTransLibrary.iml" filepath="$PROJECT_DIR$/NetWorkTransLibrary/NetWorkTransLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/NetWorkTransMission.iml" filepath="$PROJECT_DIR$/NetWorkTransMission.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
